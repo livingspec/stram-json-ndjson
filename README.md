@@ -1,0 +1,3 @@
+```
+node profile.js
+```
